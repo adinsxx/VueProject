@@ -1,0 +1,3 @@
+var viewModel = new Vue({
+
+})
